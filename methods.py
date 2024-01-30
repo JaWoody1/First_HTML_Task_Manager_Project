@@ -3,7 +3,7 @@
 
 def vertical_Displacement_With_Time(x, y):
 
-    z=x(y)+(0.5)(-9.81)(y**2)
+    z=(x)*(y)+(0.5)*(-9.81)*(y**2)
 
 
     return f"Vertical Displcement: {z}"
