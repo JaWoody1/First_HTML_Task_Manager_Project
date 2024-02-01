@@ -1,4 +1,4 @@
 # HTML Project
 # Task Manager
 # Create/Delete/Update Tasks
-# Uses python, flask, html, and css
+# Uses python, flask, html
